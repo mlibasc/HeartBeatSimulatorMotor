@@ -1,0 +1,4 @@
+- download arduino library for stepper motors
+- write python script to convert m4a to csv (comma seperated values)
+- load csv in arduino
+- read csv file and use to pulse the motor
